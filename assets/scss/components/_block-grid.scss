@@ -1,0 +1,162 @@
+.block-grid {
+	width: 100%;
+
+	a {
+		text-decoration: none;
+		color: inherit;
+
+		img {
+			transition: transform 2s ease-in-out;
+		}
+
+		&:hover {
+			img {
+				transform: scale(1.2);
+			}
+		}
+	}
+
+	> div {
+		@extend .col;
+		float: left;
+		position: relative;
+	}
+}
+.block-grid-3 {
+	> div {
+		@extend .m-4-12;
+	}
+}
+.block-grid-teaser {
+	> div {
+		overflow: hidden;
+		perspective: rem-calc(500);
+
+		@media #{$medium-only} {
+			h3 {
+				font-size: rem-calc(16);
+				line-height: 1.6;
+			}
+		}
+
+		img {
+			float: left;
+			width: 100%;
+			transition: transform 2s ease-in-out;
+		}
+
+		&:hover {
+			img {
+				transform: scale(1.1) rotateY(6deg);
+			}
+		}
+	}
+
+	&_title, &_arrow {
+		color: color(white);
+		position: absolute;
+		left: 0;
+		padding-left: $padding * 2;
+		padding-right: $padding * 2;
+
+		@media #{$medium-only} {
+			padding-left: $padding;
+			padding-right: $padding;
+		}
+	}
+
+	&_title {
+		top: 0;
+		padding-top: $padding * 2;
+
+		@media #{$medium-only} {
+			padding-top: $padding;
+		}
+	}
+
+	&_arrow {
+		bottom: 0;
+		padding-bottom: $padding * 2;
+
+		@media #{$medium-only} {
+			padding-bottom: $padding;
+		}
+
+		&:after {
+			content: '›';
+			font-size: 180%;
+		}
+	}
+}
+.block-grid-2 {
+	> div {
+		@extend .m-6-12;
+
+		&:nth-child(2n+1) {
+			clear: left;
+		}
+	}
+}
+.block-grid-2-with-margins {
+	> div {
+		margin-bottom: $padding*2;
+
+		@media #{$medium-up} {
+			width: 48%;
+		}
+		
+		&:nth-child(2n) {
+			float: right;
+		}
+
+		&:nth-child(2n+1) {
+			clear: both;
+		}
+	}
+}
+.block-grid-4 {
+	> div {
+		@extend .m-3-12;
+
+		&:nth-child(4n+1) {
+			clear: left;
+		}
+	}
+}
+.block-grid-4-margins {
+	> div {
+		//@extend .s-6-12;
+		margin-bottom: $padding * 2;
+
+		@media #{$medium-only} {
+			width: 30%;
+			margin-right: 5%;
+
+			&:nth-child(3n+1) {
+				clear: left;
+			}
+
+			&:nth-child(3n) {
+				margin-right: 0;
+			}
+
+			&:nth-child(4n+1) {
+				clear: none;
+			}
+		}
+
+		@media #{$large-up} {
+			width: 23%;
+			margin-right: 2%;
+
+			&:nth-child(4n) {
+				margin-right: 0;
+			}
+		}
+	}
+}
+.img_wrapper {
+	float: left;
+	overflow: hidden;
+	margin-bottom: $padding;
+}

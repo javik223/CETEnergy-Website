@@ -1,0 +1,40 @@
+.accordion_wrapper {
+	@extend .container;
+	float: left;
+	padding-bottom: $padding * 4;
+}
+.accordion {
+	@extend .row;
+}
+.accordion_heading {
+	@extend h3;
+	background-color: color(primary);
+	color: color(white);
+	padding-top: $padding * 0.5;
+	padding-bottom: $padding * 0.5;
+	padding-left: $padding;
+	width: 100%;
+	cursor: pointer;
+	transition: background-color 0.6s ease-out;
+
+	&:after {
+		content: '';
+		float: right;
+	}
+
+	&:hover {
+		background-color: darken(color(primary), 10%);
+	}
+}
+.accordion_content {
+	padding-top: $padding * 2;
+	padding-bottom: $padding * 2;
+}
+
+// Extensions
+.accordion-subsidiaries {
+	a {
+		text-decoration: none;
+		color: inherit;
+	}
+}

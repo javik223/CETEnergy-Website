@@ -1,0 +1,1 @@
+$(document).ready(function(){var e=$(".slider"),t=e.find(".slide_title");e.length>0&&t.length>0&&t.fitText()});
