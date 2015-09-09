@@ -16,6 +16,7 @@
 .page-nav {
 	@extend .row;
 	@extend .mt-pad;
+	overflow-x: hidden;
 
 	ul {
 		width: rem-calc(5000);

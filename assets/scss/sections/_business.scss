@@ -1,0 +1,35 @@
+.related-subsidiaries {
+	background-color: lighten(color(gray-light), 30%);
+	padding: $padding;
+	margin-top: rem-calc(60);
+
+	> h1 {
+		@extend h3;
+		@extend .text-light;
+		padding-bottom: $padding * 0.5;
+		border-bottom: 1px solid lighten(color(gray-light), 20%);
+	}
+
+	> div {
+		@extend .s-6-12;
+		@extend .m-4-12;
+		@extend .l-3-12;
+		float: left;
+
+		&:last-child {
+			margin-right: 0;
+		}
+
+		@media #{$medium-up} {
+			margin-right: $padding * 1.5;
+		}
+	}
+
+	img {
+		transition: transform 0.6s ease-in-out;
+		
+		&:hover {
+			transform: scale(1.2);
+		}
+	}
+}
