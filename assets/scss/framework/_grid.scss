@@ -11,6 +11,14 @@
 	max-width: rem-calc($row-width);
 	margin: auto auto;
 	@include clearfix;
+
+	&-pad {
+		> div {
+			@media #{$medium-up} {
+				padding-right: $padding * 2;
+			}
+		}
+	}
 }
 .collapse {
 	padding: 0 !important;

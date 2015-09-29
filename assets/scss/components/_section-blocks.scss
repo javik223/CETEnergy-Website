@@ -1,0 +1,33 @@
+.section-blocks {
+	@extend .accordion;
+
+	&_heading {
+		@extend .accordion_heading;
+		margin-bottom: 0 !important;
+	}
+
+	&_content {
+		@extend .accordion_content;
+		background-color: lighten(color(gray-light), 30%);
+		margin-bottom: $padding * 2;
+	}
+}
+
+.section-blocks_wrapper {
+	@extend .accordion_wrapper;
+}
+
+.section-blocks-business {
+	.m-6-12 {
+		padding-right: $padding * 3;
+	}
+
+	a {
+		font-weight: 400;
+		color: color(primary);
+
+		&:hover {
+			color: darken(color(primary), 10%);
+		}
+	}
+}

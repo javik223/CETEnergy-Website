@@ -5,7 +5,7 @@ $headers: (
 	h2: (fontSize: 36, lineHeight: 43, mFontSize: 30, mLineHeight: 38, sFontSize: 24, sLineHeight: 32),
 	h3: (fontSize: 22, lineHeight: 32, mFontSize: 20, mLineHeight: 32, sFontSize: 18, sLineHeight: 28),
 	h4: (fontSize: 18, lineHeight: 28, mFontSize: 18, mLineHeight: 28, sFontSize: 16, sLineHeight: 24),
-	h5: (fontSize: 16, lineHeight: 26, mFontSize: 16, mLineHeight: 26, sFontSize: 14, sLineHeight: 20),
+	h5: (fontSize: 14, lineHeight: 20, mFontSize: 12, mLineHeight: 16, sFontSize: 12, sLineHeight: 16),
 );
 
 
@@ -52,6 +52,9 @@ p {
 strong {
 	font-weight: 400;
 }
+em {
+	font-style: italic;
+}
 
 // Margin and paddings
 // No-margin top
@@ -67,7 +70,10 @@ strong {
 .text-light {
 	font-weight: $font-weight-light;
 }
-
+.text-small {
+	font-size: 80%;
+	line-height: 1.5;
+}
 //Change text color to primary color
 .c-p {
 	color: color(primary);

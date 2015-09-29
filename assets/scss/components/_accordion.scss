@@ -5,33 +5,50 @@
 }
 .accordion {
 	@extend .row;
+	overflow: hidden;
 
 	a {
 		text-decoration: none;
 		color: inherit;
 	}
-}
-.accordion_heading {
-	@extend h3;
-	background-color: color(primary);
-	color: color(white);
-	padding-top: $padding * 0.5;
-	padding-bottom: $padding * 0.5;
-	padding-left: $padding;
-	width: 100%;
-	cursor: pointer;
-	transition: background-color 0.6s ease-out;
 
-	&:after {
-		content: '';
-		float: right;
+	&_heading {
+		@extend h3;
+		background-color: color(primary);
+		color: color(white);
+		padding-top: $padding * 0.5;
+		padding-bottom: $padding * 0.5;
+		padding-left: $padding;
+		width: 100%;
+		cursor: pointer;
+		transition: background-color 0.6s ease-out;
+
+		&:after {
+			content: '';
+			float: right;
+		}
+
+		&:hover {
+			background-color: darken(color(primary), 10%);
+		}
 	}
 
-	&:hover {
-		background-color: darken(color(primary), 10%);
+	&_content {
+		padding-top: $padding * 2;
+		padding-bottom: $padding * 2;
 	}
 }
-.accordion_content {
-	padding-top: $padding * 2;
-	padding-bottom: $padding * 2;
+.accordion-core-values {
+	.accordion_content {
+		padding-top: $padding;
+	}
+
+	.accordion_heading {
+		margin-bottom: 0 !important;
+	}
 }
+/* .accordion_heading {
+	&:nth-of-type(2) {
+		background-color: rgba(color(primary), 0.5);
+	}
+} */

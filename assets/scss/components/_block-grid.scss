@@ -1,5 +1,12 @@
 .block-grid {
 	width: 100%;
+	float: left;
+	clear: both;
+	overflow: hidden;
+
+	img {
+		width: 100%;
+	}
 
 	a {
 		text-decoration: none;
@@ -22,6 +29,14 @@
 		position: relative;
 	}
 }
+.block-grid-2 {
+	a  {
+		overflow: hidden;
+		float: left;
+		width: 100%;
+	}
+}
+
 .block-grid-3 {
 	> div {
 		@extend .m-4-12;

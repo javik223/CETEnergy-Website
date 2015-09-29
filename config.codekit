@@ -11,6 +11,24 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/about\/client-and-partners.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/about\/client-and-partners.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/about\/clients-and-partners.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/about\/clients-and-partners.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/about\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -20,11 +38,155 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/about\/our-core-values.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/about\/our-core-values.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/about\/our-history.html": {
 		"fileType": 8192,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/about\/our-history.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/about\/our-locations.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/about\/our-locations.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/about\/our-strategy.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/about\/our-strategy.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/about\/team-and-leadership.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/about\/team-and-leadership.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/about\/team\/austine-elumeze.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/about\/team\/austine-elumeze.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/about\/team\/chibuzor-nwaozuru.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/about\/team\/chibuzor-nwaozuru.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/about\/team\/chineme-david-agbim.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/about\/team\/chineme-david-agbim.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/about\/team\/chudi-offodile.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/about\/team\/chudi-offodile.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/about\/team\/ikenna-nwizu.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/about\/team\/ikenna-nwizu.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/about\/team\/ikeyi-arifayan.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/about\/team\/ikeyi-arifayan.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/about\/team\/lanre-badmus.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/about\/team\/lanre-badmus.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/about\/team\/obiora-nwizu.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/about\/team\/obiora-nwizu.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/about\/team\/okechukwu-esomeju.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/about\/team\/okechukwu-esomeju.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/about\/team\/tayo-adedayo.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/about\/team\/tayo-adedayo.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/about\/team\/team-and-leadership.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/about\/team\/team-and-leadership.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/about\/vision-and-mission.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/about\/vision-and-mission.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -56,6 +218,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/assets\/img\/2000px-Coca-Cola_logo.svg.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33313,
+		"inputAbbreviatedPath": "\/assets\/img\/2000px-Coca-Cola_logo.svg.png",
+		"outputAbbreviatedPath": "\/assets\/img\/2000px-Coca-Cola_logo.svg.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/about-cetenergy-background.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -67,6 +240,61 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/Arab Contractors.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 52128,
+		"inputAbbreviatedPath": "\/assets\/img\/Arab Contractors.png",
+		"outputAbbreviatedPath": "\/assets\/img\/Arab Contractors.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/Arab-Contractors.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 43944,
+		"inputAbbreviatedPath": "\/assets\/img\/Arab-Contractors.png",
+		"outputAbbreviatedPath": "\/assets\/img\/Arab-Contractors.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/Austine-Elumeze.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 149117,
+		"inputAbbreviatedPath": "\/assets\/img\/Austine-Elumeze.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/Austine-Elumeze.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/Bitmap.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15341,
+		"inputAbbreviatedPath": "\/assets\/img\/Bitmap.png",
+		"outputAbbreviatedPath": "\/assets\/img\/Bitmap.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/blank.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2598,
+		"inputAbbreviatedPath": "\/assets\/img\/blank.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/blank.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/border.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -74,6 +302,17 @@
 		"initialSize": 14428,
 		"inputAbbreviatedPath": "\/assets\/img\/border.png",
 		"outputAbbreviatedPath": "\/assets\/img\/border.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/cet-energy-corporate-social-investment.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 139412,
+		"inputAbbreviatedPath": "\/assets\/img\/cet-energy-corporate-social-investment.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/cet-energy-corporate-social-investment.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -111,6 +350,39 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/cetenergy-downstream.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 252078,
+		"inputAbbreviatedPath": "\/assets\/img\/cetenergy-downstream.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/cetenergy-downstream.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/cetenergy-locations.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/assets\/img\/cetenergy-locations.png",
+		"outputAbbreviatedPath": "\/assets\/img\/cetenergy-locations.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/cetenergy-midstream.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 131612,
+		"inputAbbreviatedPath": "\/assets\/img\/cetenergy-midstream.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/cetenergy-midstream.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/cetenergy-our-business-illustrated-bg.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -129,6 +401,17 @@
 		"initialSize": 314720,
 		"inputAbbreviatedPath": "\/assets\/img\/cetenergy-the-energy-company-of-the-future.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/cetenergy-the-energy-company-of-the-future.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/cetenergy-upstream.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 219169,
+		"inputAbbreviatedPath": "\/assets\/img\/cetenergy-upstream.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/cetenergy-upstream.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -243,6 +526,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/Chineme-David-Agbim.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 172589,
+		"inputAbbreviatedPath": "\/assets\/img\/Chineme-David-Agbim.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/Chineme-David-Agbim.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/Chudi-Offodile.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 148000,
+		"inputAbbreviatedPath": "\/assets\/img\/Chudi-Offodile.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/Chudi-Offodile.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/client-and-partners.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -250,6 +555,17 @@
 		"initialSize": 148125,
 		"inputAbbreviatedPath": "\/assets\/img\/client-and-partners.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/client-and-partners.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/Coca-Cola.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33313,
+		"inputAbbreviatedPath": "\/assets\/img\/Coca-Cola.png",
+		"outputAbbreviatedPath": "\/assets\/img\/Coca-Cola.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -272,6 +588,61 @@
 		"initialSize": 86807,
 		"inputAbbreviatedPath": "\/assets\/img\/core-values.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/core-values.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/corporate-social-investment-stat1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6461,
+		"inputAbbreviatedPath": "\/assets\/img\/corporate-social-investment-stat1.png",
+		"outputAbbreviatedPath": "\/assets\/img\/corporate-social-investment-stat1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/corporate-social-investment-stat2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5907,
+		"inputAbbreviatedPath": "\/assets\/img\/corporate-social-investment-stat2.png",
+		"outputAbbreviatedPath": "\/assets\/img\/corporate-social-investment-stat2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/Dangote Cement.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28736,
+		"inputAbbreviatedPath": "\/assets\/img\/Dangote Cement.png",
+		"outputAbbreviatedPath": "\/assets\/img\/Dangote Cement.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/Dangote-Cement.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21623,
+		"inputAbbreviatedPath": "\/assets\/img\/Dangote-Cement.png",
+		"outputAbbreviatedPath": "\/assets\/img\/Dangote-Cement.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/Depthwize.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5604,
+		"inputAbbreviatedPath": "\/assets\/img\/Depthwize.png",
+		"outputAbbreviatedPath": "\/assets\/img\/Depthwize.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -309,6 +680,61 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/health-and-safety-landing.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 144569,
+		"inputAbbreviatedPath": "\/assets\/img\/health-and-safety-landing.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/health-and-safety-landing.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/hse.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 150545,
+		"inputAbbreviatedPath": "\/assets\/img\/hse.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/hse.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/Ibeto-group.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20251,
+		"inputAbbreviatedPath": "\/assets\/img\/Ibeto-group.png",
+		"outputAbbreviatedPath": "\/assets\/img\/Ibeto-group.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/Ikenna-Nwizu.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 214408,
+		"inputAbbreviatedPath": "\/assets\/img\/Ikenna-Nwizu.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/Ikenna-Nwizu.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/Ikeyi-Arifayan.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 170733,
+		"inputAbbreviatedPath": "\/assets\/img\/Ikeyi-Arifayan.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/Ikeyi-Arifayan.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/investment-and-sustainability.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -316,6 +742,50 @@
 		"initialSize": 90670,
 		"inputAbbreviatedPath": "\/assets\/img\/investment-and-sustainability.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/investment-and-sustainability.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/JDP.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15341,
+		"inputAbbreviatedPath": "\/assets\/img\/JDP.png",
+		"outputAbbreviatedPath": "\/assets\/img\/JDP.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/Lafarge.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24080,
+		"inputAbbreviatedPath": "\/assets\/img\/Lafarge.png",
+		"outputAbbreviatedPath": "\/assets\/img\/Lafarge.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/Mainland Power.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 35296,
+		"inputAbbreviatedPath": "\/assets\/img\/Mainland Power.png",
+		"outputAbbreviatedPath": "\/assets\/img\/Mainland Power.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/Mainland-Power.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21043,
+		"inputAbbreviatedPath": "\/assets\/img\/Mainland-Power.png",
+		"outputAbbreviatedPath": "\/assets\/img\/Mainland-Power.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -331,6 +801,50 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/Nigerian Brewery.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27068,
+		"inputAbbreviatedPath": "\/assets\/img\/Nigerian Brewery.png",
+		"outputAbbreviatedPath": "\/assets\/img\/Nigerian Brewery.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/Nigerian-Brewery.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14671,
+		"inputAbbreviatedPath": "\/assets\/img\/Nigerian-Brewery.png",
+		"outputAbbreviatedPath": "\/assets\/img\/Nigerian-Brewery.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/Nigerite.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34984,
+		"inputAbbreviatedPath": "\/assets\/img\/Nigerite.png",
+		"outputAbbreviatedPath": "\/assets\/img\/Nigerite.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/Obiora-Nwizu.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 205219,
+		"inputAbbreviatedPath": "\/assets\/img\/Obiora-Nwizu.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/Obiora-Nwizu.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/ocean-and-engineering.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -338,6 +852,28 @@
 		"initialSize": 406301,
 		"inputAbbreviatedPath": "\/assets\/img\/ocean-and-engineering.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/ocean-and-engineering.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/Okechukwu-Esomeju.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 176470,
+		"inputAbbreviatedPath": "\/assets\/img\/Okechukwu-Esomeju.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/Okechukwu-Esomeju.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/Okungbowa.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 150620,
+		"inputAbbreviatedPath": "\/assets\/img\/Okungbowa.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/Okungbowa.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -364,6 +900,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/our-history.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 202580,
+		"inputAbbreviatedPath": "\/assets\/img\/our-history.png",
+		"outputAbbreviatedPath": "\/assets\/img\/our-history.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/our-locations.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -382,6 +929,17 @@
 		"initialSize": 401340,
 		"inputAbbreviatedPath": "\/assets\/img\/our-strategy.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/our-strategy.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/RCC.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24265,
+		"inputAbbreviatedPath": "\/assets\/img\/RCC.png",
+		"outputAbbreviatedPath": "\/assets\/img\/RCC.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -430,6 +988,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/Tayo-Adedayo.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 128256,
+		"inputAbbreviatedPath": "\/assets\/img\/Tayo-Adedayo.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/Tayo-Adedayo.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/team-and-leadership.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -437,6 +1006,39 @@
 		"initialSize": 268438,
 		"inputAbbreviatedPath": "\/assets\/img\/team-and-leadership.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/team-and-leadership.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/Tinapa.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29494,
+		"inputAbbreviatedPath": "\/assets\/img\/Tinapa.png",
+		"outputAbbreviatedPath": "\/assets\/img\/Tinapa.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/Total.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14452,
+		"inputAbbreviatedPath": "\/assets\/img\/Total.png",
+		"outputAbbreviatedPath": "\/assets\/img\/Total.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/Untitled-1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 43914,
+		"inputAbbreviatedPath": "\/assets\/img\/Untitled-1.png",
+		"outputAbbreviatedPath": "\/assets\/img\/Untitled-1.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -485,6 +1087,17 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/assets\/js\/iscroll.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/iscroll.js",
+		"outputAbbreviatedPath": "\/assets\/js\/min\/iscroll-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/assets\/js\/jquery.js": {
 		"fileType": 64,
 		"ignore": 0,
@@ -496,12 +1109,159 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/assets\/js\/jquery.sticky.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/jquery.sticky.js",
+		"outputAbbreviatedPath": "\/assets\/js\/min\/jquery.sticky-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/assets\/js\/min\/app-min.js": {
 		"fileType": 64,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/js\/min\/app-min.js",
 		"outputAbbreviatedPath": "\/assets\/js\/min\/min\/app-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/min\/iscroll-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/min\/iscroll-min.js",
+		"outputAbbreviatedPath": "\/assets\/js\/min\/min\/iscroll-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/stickynavbar\/animate.min.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/stickynavbar\/animate.min.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/js\/stickynavbar\/bower.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/stickynavbar\/bower.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/assets\/js\/stickynavbar\/bower-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/assets\/js\/stickynavbar\/font-awesome.min.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/stickynavbar\/font-awesome.min.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/js\/stickynavbar\/jquery.easing.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/stickynavbar\/jquery.easing.min.js",
+		"outputAbbreviatedPath": "\/assets\/js\/stickynavbar\/min\/jquery.easing.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/stickynavbar\/jquery.stickyNavbar.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/stickynavbar\/jquery.stickyNavbar.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/js\/stickynavbar\/jquery.stickyNavbar.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/stickynavbar\/jquery.stickyNavbar.js",
+		"outputAbbreviatedPath": "\/assets\/js\/stickynavbar\/min\/jquery.stickyNavbar-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/stickynavbar\/package.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/stickynavbar\/package.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/assets\/js\/stickynavbar\/package-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/assets\/js\/stickynavbar\/README.md": {
+		"criticStyle": 0,
+		"enableFootnotes": 1,
+		"enableLabels": 1,
+		"enableSmartQuotes": 1,
+		"escapeLineBreaks": 0,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/stickynavbar\/README.md",
+		"maskEmailAddresses": 1,
+		"outputAbbreviatedPath": "\/assets\/js\/stickynavbar\/README.html",
+		"outputFormat": 0,
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"parseMetadata": 1,
+		"processHTML": 0,
+		"randomFootnoteNumbers": 0,
+		"useCompatibilityMode": 0
+		},
+	"\/assets\/js\/stickynavbar\/stickyNavbar.js.jquery.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/stickynavbar\/stickyNavbar.js.jquery.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/assets\/js\/stickynavbar\/stickyNavbar.js.jquery-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/assets\/js\/stickynavbar\/stickyNavbar.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/stickynavbar\/stickyNavbar.min.js",
+		"outputAbbreviatedPath": "\/assets\/js\/stickynavbar\/min\/stickyNavbar.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/stickynavbar\/wow.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/stickynavbar\/wow.min.js",
+		"outputAbbreviatedPath": "\/assets\/js\/stickynavbar\/min\/wow.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -596,6 +1356,22 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/scss\/components\/_page-nav.scss",
 		"outputAbbreviatedPath": "\/assets\/css\/_page-nav.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/scss\/components\/_section-blocks.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/scss\/components\/_section-blocks.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/_section-blocks.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -699,6 +1475,22 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
+	"\/assets\/scss\/modules\/_fonts.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/scss\/modules\/_fonts.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/_fonts.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
 	"\/assets\/scss\/modules\/_forms.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -795,6 +1587,22 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
+	"\/assets\/scss\/sections\/_about.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/scss\/sections\/_about.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/_about.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
 	"\/assets\/scss\/sections\/_business.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -804,6 +1612,22 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/scss\/sections\/_business.scss",
 		"outputAbbreviatedPath": "\/assets\/css\/_business.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/assets\/scss\/sections\/_clients.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/scss\/sections\/_clients.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/_clients.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1083,6 +1907,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/kit\/_about_nav.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/_about_nav.kit",
+		"outputAbbreviatedPath": "\/kit\/_about_nav.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/kit\/_footer.kit": {
 		"fileType": 2048,
 		"ignore": 1,
@@ -1092,21 +1925,21 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/kit\/_header.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kit\/_header.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/kit\/_header.kit": {
 		"fileType": 2048,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/kit\/_header.kit",
 		"outputAbbreviatedPath": "\/kit\/_header.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kit\/_responsibility_nav.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/_responsibility_nav.kit",
+		"outputAbbreviatedPath": "\/kit\/_responsibility_nav.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -1128,12 +1961,165 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1
 		},
+	"\/kit\/about\/client-and-partners.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/about\/client-and-partners.kit",
+		"outputAbbreviatedPath": "\/about\/client-and-partners.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 1
+		},
+	"\/kit\/about\/our-core-values.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/about\/our-core-values.kit",
+		"outputAbbreviatedPath": "\/about\/our-core-values.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 1
+		},
 	"\/kit\/about\/our-history.kit": {
 		"fileType": 2048,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/kit\/about\/our-history.kit",
-		"outputAbbreviatedPath": "\/Users\/javik\/Documents\/www\/CETEnergy\/about\/our-history.html",
+		"outputAbbreviatedPath": "\/about\/our-history.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 1
+		},
+	"\/kit\/about\/our-locations.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/about\/our-locations.kit",
+		"outputAbbreviatedPath": "\/about\/our-locations.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 1
+		},
+	"\/kit\/about\/our-strategy.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/about\/our-strategy.kit",
+		"outputAbbreviatedPath": "\/about\/our-strategy.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 1
+		},
+	"\/kit\/about\/team-and-leadership.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/about\/team-and-leadership.kit",
+		"outputAbbreviatedPath": "\/about\/team-and-leadership.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 1
+		},
+	"\/kit\/about\/team\/_leadership-team-sidebar.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/about\/team\/_leadership-team-sidebar.kit",
+		"outputAbbreviatedPath": "\/kit\/about\/team\/_leadership-team-sidebar.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kit\/about\/team\/austine-elumeze.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/about\/team\/austine-elumeze.kit",
+		"outputAbbreviatedPath": "\/about\/team\/austine-elumeze.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 1
+		},
+	"\/kit\/about\/team\/chibuzor-nwaozuru.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/about\/team\/chibuzor-nwaozuru.kit",
+		"outputAbbreviatedPath": "\/about\/team\/chibuzor-nwaozuru.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 1
+		},
+	"\/kit\/about\/team\/chineme-david-agbim.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/about\/team\/chineme-david-agbim.kit",
+		"outputAbbreviatedPath": "\/about\/team\/chineme-david-agbim.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 1
+		},
+	"\/kit\/about\/team\/chudi-offodile.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/about\/team\/chudi-offodile.kit",
+		"outputAbbreviatedPath": "\/about\/team\/chudi-offodile.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 1
+		},
+	"\/kit\/about\/team\/ikenna-nwizu.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/about\/team\/ikenna-nwizu.kit",
+		"outputAbbreviatedPath": "\/about\/team\/ikenna-nwizu.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 1
+		},
+	"\/kit\/about\/team\/ikeyi-arifayan.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/about\/team\/ikeyi-arifayan.kit",
+		"outputAbbreviatedPath": "\/about\/team\/ikeyi-arifayan.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 1
+		},
+	"\/kit\/about\/team\/lanre-badmus.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/about\/team\/lanre-badmus.kit",
+		"outputAbbreviatedPath": "\/about\/team\/lanre-badmus.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 1
+		},
+	"\/kit\/about\/team\/obiora-nwizu.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/about\/team\/obiora-nwizu.kit",
+		"outputAbbreviatedPath": "\/about\/team\/obiora-nwizu.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 1
+		},
+	"\/kit\/about\/team\/okechukwu-esomeju.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/about\/team\/okechukwu-esomeju.kit",
+		"outputAbbreviatedPath": "\/about\/team\/okechukwu-esomeju.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 1
+		},
+	"\/kit\/about\/team\/tayo-adedayo.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/about\/team\/tayo-adedayo.kit",
+		"outputAbbreviatedPath": "\/about\/team\/tayo-adedayo.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 1
+		},
+	"\/kit\/about\/vision-and-mission.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/about\/vision-and-mission.kit",
+		"outputAbbreviatedPath": "\/about\/vision-and-mission.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1
 		},
@@ -1145,15 +2131,6 @@
 		"outputAbbreviatedPath": "\/business.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1
-		},
-	"\/kit\/cetexploration-and-production.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kit\/cetexploration-and-production.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
 		},
 	"\/kit\/cetexploration-and-production.kit": {
 		"fileType": 2048,
@@ -1173,15 +2150,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1
 		},
-	"\/kit\/cetlogistix.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kit\/cetlogistix.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/kit\/cetlogistix.kit": {
 		"fileType": 2048,
 		"ignore": 0,
@@ -1199,15 +2167,6 @@
 		"outputAbbreviatedPath": "\/subsidiaries\/cetlogistix2.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1
-		},
-	"\/kit\/cetmarine.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/kit\/cetmarine.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
 		},
 	"\/kit\/cetmarine.kit": {
 		"fileType": 2048,
@@ -1245,6 +2204,24 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1
 		},
+	"\/kit\/corporate-social-investments.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/corporate-social-investments.kit",
+		"outputAbbreviatedPath": "\/responsibility\/corporate-social-investments.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 1
+		},
+	"\/kit\/hse.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/hse.kit",
+		"outputAbbreviatedPath": "\/responsibility\/hse.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 1
+		},
 	"\/kit\/index.kit": {
 		"fileType": 2048,
 		"ignore": 0,
@@ -1263,6 +2240,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1
 		},
+	"\/kit\/responsibility.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kit\/responsibility.kit",
+		"outputAbbreviatedPath": "\/responsibility\/index.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 1
+		},
 	"\/kit\/subsidiaries.kit": {
 		"fileType": 2048,
 		"ignore": 0,
@@ -1272,11 +2258,47 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1
 		},
+	"\/responsibility\/corporate-social-investments.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/responsibility\/corporate-social-investments.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/responsibility\/hse.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/responsibility\/hse.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/responsibility\/index.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/responsibility\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/subsidiaries.html": {
 		"fileType": 8192,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/subsidiaries.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/subsidiaries\/cetexploration-and-production.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/subsidiaries\/cetexploration-and-production.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -1580,7 +2602,7 @@
 			"flagValue": -1
 			},
 		"devel": {
-			"active": 0,
+			"active": 1,
 			"flagValue": -1
 			},
 		"dojo": {

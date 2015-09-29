@@ -16,3 +16,21 @@
 		}
 	}
 }
+.list-arrow {
+	margin-left: $padding;
+	
+	li {
+		position: relative;
+		
+		&:before {
+			content: "\e602";
+			padding-right: $padding;
+			margin-left: - $padding;
+			display: inline-block;
+			position: absolute;
+			font-family: icomoon;
+			color: color(primary);
+
+		}
+	}
+}
