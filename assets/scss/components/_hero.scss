@@ -84,3 +84,11 @@
 		}
 	}
 }
+
+.hero-temp {
+	* {
+		@media #{$medium-up} {
+			color: color(white);
+		}
+	}
+}
